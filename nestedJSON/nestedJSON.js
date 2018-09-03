@@ -71,8 +71,7 @@ const getNestedArrayProperty = (sourceObject, pathArr) => {
 }
 
 var addressObject = getNestedArrayProperty(arrayNest, ['personalInfo', 'addresses', 0]);
-console.log("addressObject = " + JSON.stringify(addressObject));
-
+console.log("getNestedArrayProperty: addressObject = " + JSON.stringify(addressObject));
 
 var city1 = getNestedArrayProperty(arrayNest, ['personalInfo', 'addresses', 1, 'city']);
 console.log("getNestedArrayProperty: " + city1);
