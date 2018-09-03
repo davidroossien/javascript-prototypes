@@ -1,11 +1,19 @@
 {
 	"folders": [
 		{
-			"path": "C:\\prototypes\\nodejs\\nestedJSON"
+			"path": "immutable"
 		},
 		{
-			"path": "immutable"
+			"path": "nestedJSON"
+		},
+		{
+			"path": "isComposedOfSubStrings"
+		},
+		{
+			"path": "smallestAngleClock"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
 }
