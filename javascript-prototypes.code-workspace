@@ -11,6 +11,12 @@
 		},
 		{
 			"path": "smallestAngleClock"
+		},
+		{
+			"path": "bst"
+		},
+		{
+			"path": "currying"
 		}
 	],
 	"settings": {
